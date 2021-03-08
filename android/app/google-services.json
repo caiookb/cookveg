@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224179140290",
+    "project_id": "vegg-bce98",
+    "storage_bucket": "vegg-bce98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224179140290:android:11acf16394390f7a43ad5b",
+        "android_client_info": {
+          "package_name": "com.example.cookveg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224179140290-onkpg9mqd3icat666f9lulmo5kpcicg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJyaSncb5uiMx3yHdPQ0OJbDkn35KXfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224179140290-onkpg9mqd3icat666f9lulmo5kpcicg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
